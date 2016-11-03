@@ -1,0 +1,2 @@
+# miningzcash
+mining zcash
